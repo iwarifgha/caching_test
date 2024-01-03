@@ -5,7 +5,7 @@ import 'package:flutter/material.dart';
 
 import 'loading_screen _controller.dart';
 
-class LoadingScreen{
+/*class LoadingScreen{
   LoadingScreenController? loadingScreenController;
 
   LoadingScreenController showLoadingDialog({
@@ -28,4 +28,4 @@ class LoadingScreen{
    );
   }
 
-}
+}*/
